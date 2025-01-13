@@ -89,6 +89,7 @@ def reset_chat():
     st.session_state.messages = []
     gc.collect()
 
+
 for message in st.session_state.chat_history:
     with st.chat_message(message["role"]):
         st.markdown(message["content"])

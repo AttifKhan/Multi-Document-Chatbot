@@ -21,6 +21,7 @@ def get_pdf_text(pdf_docs):
             text += page.extract_text()
     return text
 
+
 # Function to split text into chunks
 def get_text_chunks(text):
     text_splitter = RecursiveCharacterTextSplitter(chunk_size=1000, chunk_overlap=200)

@@ -73,9 +73,9 @@ streamlit run main.py
 ## 🖼 User Interface Snapshot
 Below is a snapshot of the chat interface:
 
-```markdown
+
 ![Chatbot Interface](assets/interface-snapshot.png)
-```
+
 
 ---
 

@@ -32,7 +32,7 @@ Ensure you have the following installed:
 ### Installation Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/multidocument-chatbot.git
+   git clone https://github.com/AttifKhan/Multi-Document-Chatbot.git
    cd multidocument-chatbot
    ```
 2. Create a virtual environment and activate it:
